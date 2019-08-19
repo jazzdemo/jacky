@@ -6,7 +6,7 @@
 ![](https://github.com/jazzdemo/jacky/raw/master/%E6%9C%AA%E5%91%BD%E5%90%8D.png)
 
 ##使用技術
-............
+
 名稱   |   說明
 -------|--------
 python |   實用
